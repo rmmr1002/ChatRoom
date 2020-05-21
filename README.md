@@ -1,7 +1,6 @@
 # ChatRoom
 
-This is a Chat Server written in Java. It alows users tocommunicate with one another by connecting to the server and interacting with it in accordance to an application protocol.  
-Through this protocol, the server allows clients to engage in group chats in chat rooms and send private messages to one another. 
+This is a Chat Server written in Java. It alows users to communicate with one another by connecting to the server and interacting with it in accordance to an application protocol. <br> Through this protocol, the server allows clients to engage in group chats in chat rooms and send private messages to one another. <br>
 The Server uses Socket programming to handle client communication and multi threading to handle concurrent client connections. 
 
 ## Prerequisites
