@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+java Server $1 $2
